@@ -7,7 +7,7 @@ A minimal React app that lets users pick from **4 beautiful Canva-grade template
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/resume-ai.git
+git clone https://github.com/Vasiuu/resume-ai.git
 cd resume-ai
 npm install
 cp .env.example .env   # fill in your OpenAI key
